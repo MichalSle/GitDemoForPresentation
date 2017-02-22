@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 
 namespace ConsoleApp2
 {
@@ -9,7 +10,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello World");
             Console.WriteLine("; )");
             Console.WriteLine("Hello ZSMEiE");
-            Console.WriteLine("blalallala");
+            Console.WriteLine("hello");
         }
     }
 }
