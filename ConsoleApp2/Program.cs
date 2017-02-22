@@ -7,11 +7,7 @@ namespace ConsoleApp2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("; )");
-            Console.WriteLine("Hello ZSMEiE");
-            Console.WriteLine("hello");
-            Console.WriteLine("dd");
+            Console.WriteLine("Hello ZSMEiE ; - )");
         }
     }
 }
